@@ -60,3 +60,6 @@ conftest
 conftest.c
 ABOUT-NLS
 ChangeLog.git
+
+# default cmake build folder
+build/
